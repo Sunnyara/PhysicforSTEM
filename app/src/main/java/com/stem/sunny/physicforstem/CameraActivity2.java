@@ -71,6 +71,7 @@ public class CameraActivity2 extends Activity implements SurfaceHolder.Callback 
     };
 
 
+
     private static final int REQUEST_EXTERNAL_STORAGE = 1;
     private static String[] STORAGE_PERMISSION = {
             android.Manifest.permission.READ_EXTERNAL_STORAGE,
