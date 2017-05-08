@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\17b151a5346fd26dbd809142ca68f1ede2ccf662\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bc6414c15acace157263670865b235313594efd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\b3531921fce5daecacd94e6af75f44c090c8e757\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53f56772155f72f6b5c8fea77074ff6e31515174\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\b3531921fce5daecacd94e6af75f44c090c8e757\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_53f56772155f72f6b5c8fea77074ff6e31515174.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\53bfa01e471259a9607c3c61d0fd14ed01501be6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d7ba5eeba767ad03a5b074dda5d969fea759dd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\9d88a40b3bd21857d5a79d2c157980d0f5560913\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ae2a2f9d653d24d14fa4204093c87b42ee3dbc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\144d5d6108292e0a09306597b36803f86ff2022e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_e4b4e4cdcd0c1f2fcbec0d3db2eaa2ef255cb7b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_acbece828d3f2127a0824617464621e11ee54dc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\ad9cae0ad557f843d74a571fc063b92bf573037a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_b0c83cbc4be4eb11263869b9f3f553b5bcc9afb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\d628ecbe59fb3ac8350e59708b7e91ce8852068a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_b17e2bd3cbed40bdb832ae2d5e10c7b8fcf0cf53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\53bfa01e471259a9607c3c61d0fd14ed01501be6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_1d7ba5eeba767ad03a5b074dda5d969fea759dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_9ac268f582368e58e09b3ae00bfa2beea2caf13a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\144d5d6108292e0a09306597b36803f86ff2022e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4b4e4cdcd0c1f2fcbec0d3db2eaa2ef255cb7b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\9d88a40b3bd21857d5a79d2c157980d0f5560913\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_0ae2a2f9d653d24d14fa4204093c87b42ee3dbc2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\ad9cae0ad557f843d74a571fc063b92bf573037a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0c83cbc4be4eb11263869b9f3f553b5bcc9afb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\d628ecbe59fb3ac8350e59708b7e91ce8852068a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b17e2bd3cbed40bdb832ae2d5e10c7b8fcf0cf53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\8d0092798effe97d3c68ac0a3e38c5dbb447b572\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5dba71ebeb0af2c5fa50ac5a8874abb242b9bc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\8d0092798effe97d3c68ac0a3e38c5dbb447b572\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_e5dba71ebeb0af2c5fa50ac5a8874abb242b9bc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\6237c2611c357281812280d115fcd0548f081475\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0530eee0317eacd5e26f1bcd22f3e9923234fecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\6237c2611c357281812280d115fcd0548f081475\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_0530eee0317eacd5e26f1bcd22f3e9923234fecb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="711afb5b8d3be898f8d9ff3aee3852165aed48b8">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b89bdc5422cbbea9e1eec17636af59ee1e29519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\7ac3ef205ca0f642b533e0a7dca971507016f033\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79cb73f4b33b35f350199d337cc16c76a766527a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\7ac3ef205ca0f642b533e0a7dca971507016f033\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_79cb73f4b33b35f350199d337cc16c76a766527a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\dc387aa688035dd5c29894a69e246fd1b72e58ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_ddf124364f8cd6d14c97a739e201cf9afed498a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sunnara\.android\build-cache\17b151a5346fd26dbd809142ca68f1ede2ccf662\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\pre-dexed\debug\classes_6bc6414c15acace157263670865b235313594efd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sunnara\.android\build-cache\dc387aa688035dd5c29894a69e246fd1b72e58ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Sunnara\AndroidStudioProjects\PhysicforSTEM\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddf124364f8cd6d14c97a739e201cf9afed498a0\classes.dex" />
+    </item>
+
+</items>

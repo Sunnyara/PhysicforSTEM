@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Physic for STEM</string>
+    <string name="acceleration2">加速度</string>
+    <string name="about_us"></string>
+    <string name="acceleration">加速度</string>
+    <string name="calcbutton">計算する</string>
+    <string name="camera">カメラ</string>
+    <string name="camera_usage">カメラをする</string>
+</resources>

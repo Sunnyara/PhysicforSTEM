@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#969696</color>
+    <color name="darker_grey">#585858</color>
+    <color name="darkerer_grey">#383838</color>
+    <color name="background">#bc0101</color>
+
+
+    <color name="babyblue">#00b0b3</color>
+    <color name="babyblue_clicked">#86fdff</color>
+
+    <color name="babygreen">#007621</color>
+    <color name="babygreem_light">#78cf91</color>
+    <color name="babygreen_click">#00b734</color>
+
+    <color name="babyred">#ff191d</color>
+    <color name="babyred_clicked">#ff7274</color>
+
+
+    <color name="darkblue">#162a7b</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="title_color">#3F51B5</color>
+    <color name="title_color2">#171f48</color>
+
+</resources>

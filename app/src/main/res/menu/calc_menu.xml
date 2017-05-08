@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu_calc">
+
+    <item android:id="@+id/dist_page"
+        android:title="@string/dist_option"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/weight_page"
+        android:title="@string/weight_option"
+        app:showAsAction="never"
+        />
+</menu>

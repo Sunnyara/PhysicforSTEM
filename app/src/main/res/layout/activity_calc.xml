@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.stem.sunny.physicforstem.MainActivity">
+
+
+    <TextView
+        android:id="@+id/calctitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="@string/lentitle"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/calctitle"
+        android:layout_marginTop="50dp"
+        android:id="@+id/midlayout">
+
+        <EditText
+            android:layout_width="1dp"
+            android:layout_height="50dp"
+            style="@style/Widget.AppCompat.EditText"
+            android:textSize="15sp"
+            android:layout_weight="1"
+            android:hint="@string/inputhint"
+            android:textColorHint="@color/grey"
+            android:textAlignment="center"
+            android:inputType="numberDecimal"
+            android:id="@+id/box1"       />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/arrow_right"
+            android:layout_gravity="center"
+             />
+        <EditText
+            android:layout_width="1dp"
+            android:layout_height="50dp"
+            style="@style/Widget.AppCompat.EditText"
+            android:textSize="15sp"
+            android:layout_weight="1"
+            android:hint=""
+            android:textColorHint="@color/grey"
+            android:textAlignment="center"
+            android:id="@+id/box2"      />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/midlayout"
+        android:id="@+id/midlayout2">
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            style="@style/Base.Widget.AppCompat.DropDownItem.Spinner"
+            android:id="@+id/dist1"/>
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            style="@style/Base.Widget.AppCompat.DropDownItem.Spinner"
+            android:id="@+id/dist2"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/convbutton"
+        android:layout_below="@id/midlayout2"
+        android:layout_width="150dp"
+        style="@style/Base.TextAppearance.AppCompat.Button"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:text="@string/convButton"/>
+
+
+</RelativeLayout>
+

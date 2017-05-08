@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Physic for STEM</string>
+    <string name="conv_page">Conversion</string>
+    <string name="calcTest">Calculator Works!</string>
+    <string name="camTest">Camera Works!</string>
+    <string name="lentitle">Convert Distance</string>
+    <string name="inputhint">Input here.</string>
+    <string name="convButton">Convert</string>
+    <string name="weighttitle">Convert Weight</string>
+    <string name="dist_option">Distance</string>
+    <string name="weight_option">Weight</string>
+    <string name="camera">Camera</string>
+    <string name="calcbutton">Calculate</string>
+    <string name="physicsTitle">Physic for STEM</string>
+    <string name="logodesc">logo</string>
+    <string name="about_us">About Us</string>
+    <string-array name="weight_table">
+        <item>grams</item>
+        <item>pounds</item>
+        <item>kilograms</item>
+        <item>ounces</item>
+    </string-array>
+    <string-array name="dist_table"> <!--Conversion Table Distance  -->
+        <item>meters</item>
+        <item>inches</item>
+        <item>feet</item>
+        <item>miles</item>
+        <item>centimeters</item>
+        <item>kilometers</item>
+    </string-array>
+    <string name="about_desc">
+        This app is intended to guide users for Physics.\n
+        There are many useful tools such as converting\n
+        distances or weights.\n
+        Other tools such as measuring velocity are available \n
+        through using the camera function.\n
+
+        \n\nCopyright 2017, Sunnara Prasavath\n
+        Student, Appalachian State University\n
+        </string>
+    <string name="data_input">Input data</string>
+    <string name="camera_usage">Use Camera</string>
+    <string name="choose_method">Choose method</string>
+    <string name="title">Title: </string>
+    <string name="velocity_i">V0: </string>
+    <string name="acceleration">Acc: </string>
+    <string name="time">Time: </string>
+    <string name="velocity_f">VF: </string>
+    <string name="final_velocity">Final Velocity (m/s)</string>
+    <string name="initial_velocity">Initial Velocity (m/s)</string>
+    <string name="distance">Distance (m)</string>
+    <string name="acceleration2">Acceleration (m/s^2)</string>
+    <string name="time2">Time (s)</string>
+</resources>
